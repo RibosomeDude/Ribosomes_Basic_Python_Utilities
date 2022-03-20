@@ -1,3 +1,3 @@
-# Ribosomes_Basic_Python_Utilities
+# Ribosome's Basic Python Utilities
 
 Easy to use command line tools
